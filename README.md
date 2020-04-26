@@ -18,4 +18,4 @@ cd culturenews
 Открыть index.html
 ```
 
-![alt text](screenshots/marafon.jgp "Описание будет тут")​
+![alt text](marafon.jgp "Описание будет тут")​
