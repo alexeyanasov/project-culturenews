@@ -17,3 +17,5 @@ git clone https://github.com/alexeyanasov/project-culturenews.git
 cd culturenews
 Открыть index.html
 ```
+
+https://sun1.beltelecom-by-minsk.userapi.com/AVe_K0CZrs2bi6_dJDsL3wEj5mzenR-0ugxx_g/tTyw0mnIixw.jpg
