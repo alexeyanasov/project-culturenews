@@ -18,4 +18,4 @@ cd culturenews
 Открыть index.html
 ```
 
-![alt text](marafon.jpg "Описание будет тут")​
+![alt text](marafon.jpg "Марафон по верстке от HTMLAcademy")​
