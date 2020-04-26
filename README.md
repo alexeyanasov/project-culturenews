@@ -18,4 +18,4 @@ cd culturenews
 Открыть index.html
 ```
 
-https://sun1.beltelecom-by-minsk.userapi.com/AVe_K0CZrs2bi6_dJDsL3wEj5mzenR-0ugxx_g/tTyw0mnIixw.jpg
+![alt text](screenshots/marafon.jgp "Описание будет тут")​
